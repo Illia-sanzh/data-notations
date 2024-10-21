@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emails>
+    <email>
+        <properties>
+            <sender>John Smith</sender>
+            <recipient>Microsoft</recipient>
+            <subject>Minecraft 2?????</subject>
+            <message>When is Minecraft 2 gonna release. I'm tired of waiting microsoft</message>
+        </properties>
+    </email>
+</emails>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transports>
+    <transport type = 'public'>
+        <name>Tram</name>
+        <price>4 PLN</price>
+        <waiting_time>20 min</waiting_time>
+    </transport>
+    <transport type = 'public'>
+        <name>Bus</name>
+        <price>4 PLN</price>
+        <waiting_time>20 min</waiting_time>
+    </transport>
+    <transport type = 'private'>
+        <name>Bicycle</name>
+        <price>4000 Pln</price>
+    </transport>
+    <transport type = 'private'>
+        <name>Car</name>
+        <price>100000 PLN + gas</price>
+    </transport>
+</transports>

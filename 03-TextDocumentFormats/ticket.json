@@ -1,0 +1,8 @@
+{
+  "start": "Vienna",
+  "destination": "Venice",
+  "price": "500 PLN",
+  "time": "7 hours",
+  "train_type": "DB ICE",
+  "train_speed": "350 km/h"
+}

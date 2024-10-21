@@ -53,5 +53,27 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+        "name": "La Chateau",
+        "founded": 1959,
+        "headquarters": "Saint-Laurent, Quebec, Canada",
+        "employees": 3000,
+        "products": [
+            "Menswear",
+            "Outerwear",
+            "Accessories"
+        ]
+    },
+    {
+        "name": "Lacoste",
+        "founded": 1933,
+        "headquarters": "Troyes, France",
+        "employees": 8500,
+        "products": [
+            "Menswear",
+            "Fashion Apparel",
+            "Accessories"
+        ]
     }
 ]
